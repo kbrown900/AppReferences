@@ -1,0 +1,1 @@
+(Get-CIMInstance Win32_networkadapterconfiguration -filter IPEnabled=true).IPSubnet | findstr "255"

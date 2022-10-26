@@ -1,0 +1,1 @@
+(Get-CIMInstance win32_systemenclosure).SMBIOSAssetTag

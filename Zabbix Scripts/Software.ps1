@@ -1,0 +1,1 @@
+Get-CIMInstance -class Win32_Product | Select Vendor,caption | Sort-Object -Property Vendor |Format-Table -Property * 
