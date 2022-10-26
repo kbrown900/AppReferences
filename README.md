@@ -1,2 +1,2 @@
-# PowershellRefernce
+# PowershellReference
 Some basic powershell scripts
